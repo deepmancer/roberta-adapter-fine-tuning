@@ -10,5 +10,5 @@ The implementation of the RoBERTa model with Adapters is done using the PyTorch 
 
 # Results
 | Model             | Acc.        | Precision.        | Recall.        | F1.        |
-| ----------------- | ----------- |
+| ----------------- | ----------- | ----------------- | -------------- | ---------- |
 | [RoBERTa](https://huggingface.co/docs/transformers/model_doc/roberta)         | 94.16%      | 93.82%      | 94.54%      | 94.18%      |

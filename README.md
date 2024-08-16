@@ -57,16 +57,6 @@ The **IMDB movie reviews dataset** is a gold standard for sentiment analysis, wi
 - **Labels**: Binary sentiment classification (positive/negative)
 - **Distribution**: Even distribution of positive and negative reviews across training and testing sets
 
-### Why IMDB?
-
-The IMDB dataset is particularly valuable for sentiment analysis because it includes real-world movie reviews, which vary in tone, style, and length. This diversity makes it an excellent benchmark for evaluating the performance of sentiment analysis models.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/datasets/imdb-reviews/master/images/imdb.png" alt="IMDB Dataset Visualization" width="600">
-</p>
-
-These reviews challenge models to understand context, sarcasm, and nuanced language, which are crucial for accurately predicting sentiment.
-
 ---
 
 ## ⚙️ Implementation Details

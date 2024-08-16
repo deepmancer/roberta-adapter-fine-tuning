@@ -41,16 +41,31 @@ Below is a visualization of the Adapter architecture within the Transformer laye
 
 ---
 
-## 📚 Dataset
 
-The project utilizes the **IMDB movie reviews dataset**, a widely-used benchmark for sentiment analysis:
+## 🎥 The IMDB Dataset
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/IMDB_Logo_2016.svg" alt="IMDB Logo" width="200">
+</p>
+
+The **IMDB movie reviews dataset** is a gold standard for sentiment analysis, widely used in NLP research. This dataset provides a robust foundation for training and evaluating sentiment analysis models.
+
+### Dataset Overview
 
 - **Size**: 50,000 movie reviews
 - **Train/Test Split**: 25,000 reviews for training and 25,000 for testing
 - **Labels**: Binary sentiment classification (positive/negative)
 - **Distribution**: Even distribution of positive and negative reviews across training and testing sets
 
-This dataset provides a robust foundation for training and evaluating the sentiment analysis model.
+### Why IMDB?
+
+The IMDB dataset is particularly valuable for sentiment analysis because it includes real-world movie reviews, which vary in tone, style, and length. This diversity makes it an excellent benchmark for evaluating the performance of sentiment analysis models.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/datasets/imdb-reviews/master/images/imdb.png" alt="IMDB Dataset Visualization" width="600">
+</p>
+
+These reviews challenge models to understand context, sarcasm, and nuanced language, which are crucial for accurately predicting sentiment.
 
 ---
 

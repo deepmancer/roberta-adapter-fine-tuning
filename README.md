@@ -1,7 +1,3 @@
-Here’s an updated version of the `README.md` that includes a section on the Adapter method along with the uploaded image to make it more engaging and technical:
-
----
-
 # 🎭 Fine-Tuning RoBERTa with Adapters for Sentiment Analysis
 
 <p align="center">
